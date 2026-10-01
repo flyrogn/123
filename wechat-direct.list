@@ -1,0 +1,11 @@
+# === 微信纯直连规则集 ===
+IP-CIDR,43.160.0.0/15,no-resolve
+IP-CIDR,101.32.0.0/16,no-resolve
+IP-CIDR,101.33.0.0/16,no-resolve
+
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,wechatos.net
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-KEYWORD,wechatpay
